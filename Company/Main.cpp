@@ -168,7 +168,7 @@ void main()
 		  case 'p': 
 		  {
 			  int k = 0;
-			  cout << "¬‚Â‰ËÚ¸ ÍËÎ¸ÍËÒÚ¸ ÓÍË‚ - ";
+			  cout << "√Ç√¢√•√§√®√≤√º √™√®√´√º√™√®√±√≤√º √∞√Æ√™√®√¢ - ";
 			  cin >> k;
 			  empl[counter - 1]->PrognozSalary(k);
 			  _getch();
@@ -178,7 +178,11 @@ void main()
 
 
 	}
-
-
+        //–í–∏–¥–∞–ª–µ–Ω–Ω—è
+        for (int i = 0; i < size; i++) 
+	{
+		delete[] empl[i];
+	}
+	delete[] empl;
 
 }
