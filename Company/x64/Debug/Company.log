@@ -1,0 +1,14 @@
+﻿  Empl.cpp
+  Employee.cpp
+C:\Users\Denis\Desktop\Новая папка\Company\Company\Empl.cpp(37,13): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  funct.cpp
+  Main.cpp
+C:\Users\Denis\Desktop\Новая папка\Company\Company\Employee.cpp(22,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Manager.cpp
+  Sales.cpp
+C:\Users\Denis\Desktop\Новая папка\Company\Company\Main.cpp(12,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Denis\Desktop\Новая папка\Company\Company\Sales.cpp(29,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Subortinates.cpp
+  Создание кода...
+C:\Users\Denis\Desktop\Новая папка\Company\Company\Sales.cpp(40,80): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Company.vcxproj -> C:\Users\Denis\Desktop\Новая папка\Company\x64\Debug\Company.exe
